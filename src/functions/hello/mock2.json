@@ -1,0 +1,7 @@
+{
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": "{\"url\":\"https://bot.sannysoft.com\", \"usePlugin\":\"true\"}"
+  }
+  
